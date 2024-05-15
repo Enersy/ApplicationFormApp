@@ -1,0 +1,15 @@
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\bin\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.deps.json
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\bin\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.dll
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\bin\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.pdb
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\bin\Debug\net8.0\EmployeeApplicationForm.Domain.dll
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\bin\Debug\net8.0\EmployeeApplicationForm.Domain.pdb
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.AssemblyInfo.cs
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.csproj.CopyComplete
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.dll
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\refint\EmplpyeeApplicationForm.Infrastructure.dll
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\EmplpyeeApplicationForm.Infrastructure.pdb
+C:\Users\EnersySoft\source\repos\EmplpyeeApplicationForm.Infrastructure\obj\Debug\net8.0\ref\EmplpyeeApplicationForm.Infrastructure.dll
