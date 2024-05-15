@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EnersySoft\\source\\repos\\EmployeeApplicationForm.Domain\\EmployeeApplicationForm.Domain.csproj": {}
+    "C:\\Users\\EnersySoft\\source\\repos\\src\\EmployeeApplicationForm.Domain\\EmployeeApplicationForm.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EnersySoft\\source\\repos\\EmployeeApplicationForm.Domain\\EmployeeApplicationForm.Domain.csproj": {
+    "C:\\Users\\EnersySoft\\source\\repos\\src\\EmployeeApplicationForm.Domain\\EmployeeApplicationForm.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EnersySoft\\source\\repos\\EmployeeApplicationForm.Domain\\EmployeeApplicationForm.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\EnersySoft\\source\\repos\\src\\EmployeeApplicationForm.Domain\\EmployeeApplicationForm.Domain.csproj",
         "projectName": "EmployeeApplicationForm.Domain",
-        "projectPath": "C:\\Users\\EnersySoft\\source\\repos\\EmployeeApplicationForm.Domain\\EmployeeApplicationForm.Domain.csproj",
+        "projectPath": "C:\\Users\\EnersySoft\\source\\repos\\src\\EmployeeApplicationForm.Domain\\EmployeeApplicationForm.Domain.csproj",
         "packagesPath": "C:\\Users\\EnersySoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EnersySoft\\source\\repos\\EmployeeApplicationForm.Domain\\obj\\",
+        "outputPath": "C:\\Users\\EnersySoft\\source\\repos\\src\\EmployeeApplicationForm.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EnersySoft\\AppData\\Roaming\\NuGet\\NuGet.Config",

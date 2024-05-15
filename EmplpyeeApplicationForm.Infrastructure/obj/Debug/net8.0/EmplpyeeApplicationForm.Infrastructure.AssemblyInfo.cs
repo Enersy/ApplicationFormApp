@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmplpyeeApplicationForm.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7bf94e53917e684ec08169f5fc68a536555499e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmplpyeeApplicationForm.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmplpyeeApplicationForm.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

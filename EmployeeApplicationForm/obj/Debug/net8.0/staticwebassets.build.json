@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6AgPX6evDv2t0zALBtegzmqR3ZiMyVrB+2GIESPNI3w=",
+  "Hash": "UmBVKqc7liI2LxtKP4SD0leGpgJqYIVkGnYSv0jIXpE=",
   "Source": "EmployeeApplicationForm.API",
   "BasePath": "_content/EmployeeApplicationForm.API",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\EnersySoft\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\EnersySoft\\source\\repos\\EmployeeApplicationForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmployeeApplicationForm.API.styles.css",
+      "Identity": "C:\\Users\\EnersySoft\\source\\repos\\src\\EmployeeApplicationForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmployeeApplicationForm.API.styles.css",
       "SourceId": "EmployeeApplicationForm.API",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\EnersySoft\\source\\repos\\EmployeeApplicationForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\EnersySoft\\source\\repos\\src\\EmployeeApplicationForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EmployeeApplicationForm.API",
       "RelativePath": "EmployeeApplicationForm.API.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\EnersySoft\\source\\repos\\EmployeeApplicationForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmployeeApplicationForm.API.styles.css"
+      "OriginalItemSpec": "C:\\Users\\EnersySoft\\source\\repos\\src\\EmployeeApplicationForm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmployeeApplicationForm.API.styles.css"
     }
   ]
 }

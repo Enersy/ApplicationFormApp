@@ -9,3 +9,15 @@ C:\Users\EnersySoft\source\repos\EmployeeApplicationForm.Domain\obj\Debug\net8.0
 C:\Users\EnersySoft\source\repos\EmployeeApplicationForm.Domain\obj\Debug\net8.0\refint\EmployeeApplicationForm.Domain.dll
 C:\Users\EnersySoft\source\repos\EmployeeApplicationForm.Domain\obj\Debug\net8.0\EmployeeApplicationForm.Domain.pdb
 C:\Users\EnersySoft\source\repos\EmployeeApplicationForm.Domain\obj\Debug\net8.0\ref\EmployeeApplicationForm.Domain.dll
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\bin\Debug\net8.0\EmployeeApplicationForm.Domain.deps.json
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\bin\Debug\net8.0\EmployeeApplicationForm.Domain.dll
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\bin\Debug\net8.0\EmployeeApplicationForm.Domain.pdb
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\EmployeeApplicationForm.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\EmployeeApplicationForm.Domain.AssemblyInfoInputs.cache
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\EmployeeApplicationForm.Domain.AssemblyInfo.cs
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\EmployeeApplicationForm.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\EmployeeApplicationForm.Domain.sourcelink.json
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\EmployeeApplicationForm.Domain.dll
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\refint\EmployeeApplicationForm.Domain.dll
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\EmployeeApplicationForm.Domain.pdb
+C:\Users\EnersySoft\source\repos\src\EmployeeApplicationForm.Domain\obj\Debug\net8.0\ref\EmployeeApplicationForm.Domain.dll

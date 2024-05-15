@@ -22,10 +22,10 @@ namespace EmplpyeeApplicationForm.Infrastructure
             modelBuilder.HasAutoscaleThroughput(1000);
 
 
-           // modelBuilder.Entity<PersonalInfo>()
-           //.ToContainer(nameof(PersonalInfo))
-           //.HasPartitionKey(q => q.Id)
-           //.HasNoDiscriminator();
+            modelBuilder.Entity<PersonalInfo>()
+           .ToContainer(nameof(PersonalInfo))
+           .HasPartitionKey(q => q.Id)
+           .HasNoDiscriminator();
 
             modelBuilder.Entity<Question>()
               .ToContainer(nameof(Question))
